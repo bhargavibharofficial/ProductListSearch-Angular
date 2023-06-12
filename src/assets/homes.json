@@ -1,0 +1,72 @@
+[
+    {
+        "ProjectGroupID": "23",
+        "MetroAreaID": "1007",
+        "ProjectName": "Edgewater",
+        "ProductID":"980",
+        "ProductName":"The Davis"
+    },
+    {
+        "ProjectGroupID": "23",
+        "MetroAreaID": "1007",
+        "ProjectName": "Edgewater",
+        "ProductID":"E15",
+        "ProductName":"The Amelia"
+    },
+    {
+        "ProjectGroupID": "23",
+        "MetroAreaID": "1007",
+        "ProjectName": "Edgewater",
+        "ProductID":"Y54",
+        "ProductName":"The Lockwood"
+    },
+    {
+        "ProjectGroupID": "23",
+        "MetroAreaID": "1007",
+        "ProjectName": "Edgewater",
+        "ProductID":"Y58",
+        "ProductName":"The Prescott"
+    },
+    {
+        "ProjectGroupID": "25",
+        "MetroAreaID": "1007",
+        "ProjectName": "Inwood",
+        "ProductID":"1562",
+        "ProductName":"The Dupree"
+    },
+    {
+        "ProjectGroupID": "41",
+        "MetroAreaID": "1008",
+        "ProjectName": "Estuary at Bowen Village",
+        "ProductID":"1601",
+        "ProductName":"The Stono"
+    },
+    {
+        "ProjectGroupID": "41",
+        "MetroAreaID": "1008",
+        "ProjectName": "Estuary at Bowen Village",
+        "ProductID":"U68",
+        "ProductName":"The Moultrie"
+    },
+    {
+        "ProjectGroupID": "43",
+        "MetroAreaID": "1008",
+        "ProjectName": "Mixson",
+        "ProductID":"1674",
+        "ProductName":"The Stella"
+    },
+    {
+        "ProjectGroupID": "47",
+        "MetroAreaID": "1008",
+        "ProjectName": "Oldfield",
+        "ProductID":"1665",
+        "ProductName":"The Tidalview"
+    },
+    {
+        "ProjectGroupID": "47",
+        "MetroAreaID": "1008",
+        "ProjectName": "Oldfield",
+        "ProductID":"NULL",
+        "ProductName":"NULL"
+    }
+]
